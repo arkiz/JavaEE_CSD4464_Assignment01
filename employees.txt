@@ -1,0 +1,15 @@
+arkiz2,1234,kiyoung,park,10,30000.0
+arkiz3,1234,kiyoung,park,10,30000.0
+arkiz4,1234,kiyoung,park,10,30000.0
+arkiz4,1234,kiyoung,park,10,30000.0
+arkiz4,1234,kiyoung,park,10,30000.0
+arkiz4,1234,kiyoung,park,10,30000.0
+arkiz4,1234,kiyoung,park,10,30000.0
+arkiz5,1234,kiyoung,park,10,30000.0
+arkiz5,1234,kiyoung,park,10,30000.0
+arkiz5,1234,kiyoung,park,10,30000.0
+arkiz5,1234,kiyoung,park,10,30000.0
+arkiz5,1234,kiyoung,park,10,30000.0
+arkiz5,1234,kiyoung,park,10,30000.0
+arkiz6,1234,kiyoung,park,10,30000.0
+arkiz7,1234,kiyoung,park,10,30000.0
